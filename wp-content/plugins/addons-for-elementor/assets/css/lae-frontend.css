@@ -518,7 +518,7 @@
 
 /* Sleek Carousel Styles */
 .slick-loading .slick-list {
-  background: #fff url("./ajax-loader.gif") center center no-repeat; }
+  background: #fff url("https://hrselimm.github.io/wp/wp-content/plugins/addons-for-elementor/assets/css/ajax-loader.gif") center center no-repeat; }
 
 .lae-container button.slick-prev, .lae-container button.slick-next {
   position: absolute;

@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'lae-icomoon';
   src:
-    url('fonts/lae-icomoon.ttf?w77gxm') format('truetype'),
-    url('fonts/lae-icomoon.woff?w77gxm') format('woff'),
-    url('fonts/lae-icomoon.svg?w77gxm#lae-icomoon') format('svg');
+    url('https://hrselimm.github.io/wp/wp-content/plugins/addons-for-elementor/assets/css/fonts/lae-icomoon.ttf?w77gxm') format('truetype'),
+    url('https://hrselimm.github.io/wp/wp-content/plugins/addons-for-elementor/assets/css/fonts/lae-icomoon.woff?w77gxm') format('woff'),
+    url('https://hrselimm.github.io/wp/wp-content/plugins/addons-for-elementor/assets/css/fonts/lae-icomoon.svg?w77gxm#lae-icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
